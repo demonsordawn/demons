@@ -1,22 +1,26 @@
-body{
-  font-size:12pt;
-  font-family:Arial,sans-serif;
-  color:blue;
-  line_height:20pt;
+body {
+    font-size:10pt;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:aquamarine;
+    line-height:14pt;
+    padding-left:5pt;
+    padding-right:5pt;
+    padding-top:5pt;
 }
 h1{
-  font:20pt,Arial;
-  color:yellow;
-  font-weight:bold;
-  line-height:30pt;
+    font-size:14pt;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:brown;
+    line-height:20pt;
 }
 p{
-  font-weight:bold;
+    font-weight:bold;
+    color:aqua;
 }
 footer{
-  font-szie:9pt;
-  font-style:italic;
-  line-height:12pt;
-  text-align:center;
-  padding-top:30pt;
+    font-size:9pt;
+    font-style:italic;
+    line-height:12pt;
+    text-align:center;
+    padding-top:30pt;
 }
